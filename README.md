@@ -6,7 +6,7 @@ Welcome to the Lottery Website project! This project aims to provide users with 
 
 1. [Features](#features)
 2. [Demo](#demo)
-3. 
+   
 ## Features
 
 - **Lottery Participation**: Users can buy tickets for available lotteries.
