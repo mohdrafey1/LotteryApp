@@ -30,7 +30,6 @@ function Lottery({ n = 3, winCondition }) {
                         <span className="text-black">Spend here </span>
                         <a
                             href="https://jee-bharke-shopping.vercel.app/"
-                            target="_blank"
                             className="text-red-500 underline hover:text-blue-700"
                         >
                             Click
