@@ -1,8 +1,16 @@
-# React + Vite
+# Lottery Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Lottery Website project! This project aims to provide users with a platform to participate in lotteries online. Built using React and Tailwind CSS, this website offers a seamless and visually appealing experience for users interested in trying their luck.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. [Features](#features)
+2. [Demo](#demo)
+3. 
+## Features
+
+- **Lottery Participation**: Users can buy tickets for available lotteries.
+- **Random Number Generation**: Automated generation of random numbers for tickets.
+- **Winner Declaration**: Announcing winners and distributing prizes.
+- **Responsive Design**: Mobile-friendly interface for accessibility across devices.
+
