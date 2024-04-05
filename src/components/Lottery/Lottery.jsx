@@ -26,10 +26,10 @@ function Lottery({ n = 3, winCondition }) {
                 </button>
                 {isWinning && (
                     <h3 className="text-center text-green-500 font-semibold mt-4">
-                        🎉 Congratulations! You've Won 1 Billion $ 🎉 <br />
+                        🎉 Congratulations! You've Won 10,000 crore ₹ 🎉 <br />
                         <span className="text-black">Spend here </span>
                         <a
-                            href="https://neal.fun/spend/#google_vignette"
+                            href="https://jee-bharke-shopping.vercel.app/"
                             target="_blank"
                             className="text-red-500 underline hover:text-blue-700"
                         >
