@@ -6,7 +6,7 @@ Welcome to the Lottery Website project! This project aims to provide users with 
 
 1. [Features](#features)
 2. [Demo](#demo)
-   
+
 ## Features
 
 - **Lottery Participation**: Users can buy tickets for available lotteries.
@@ -14,3 +14,6 @@ Welcome to the Lottery Website project! This project aims to provide users with 
 - **Winner Declaration**: Announcing winners and distributing prizes.
 - **Responsive Design**: Mobile-friendly interface for accessibility across devices.
 
+## Demo
+
+To see a live demo of the Lottery Website, please visit [here](https://lottery-app-mu.vercel.app).
