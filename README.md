@@ -16,4 +16,5 @@ Welcome to the Lottery Website project! This project aims to provide users with 
 
 ## Demo
 
-To see a live demo of the Lottery Website, please visit [here](https://lottery-app-mu.vercel.app){:target="_blank"}. 
+To see a live demo of the Lottery Website, please visit <a href="https://lottery-app-mu.vercel.app" target="_blank">here</a>.
+
